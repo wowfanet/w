@@ -26,12 +26,12 @@
     color: #CBCBCB;
     line-height: 24px;
 }
-.wowintro2 a.f_a{background:url('/static/image/wow/alliance.png') 0 2px no-repeat;padding-left:18px;}
-.wowintro2 a.f_h{background:url("/static/image/wow/horde.png") 0 2px no-repeat;padding-left:18px;}
-span.f_a{background:url('/static/image/wow/alliance.png') 0 0 no-repeat;padding-left:20px;}
-span.f_h{background:url("/static/image/wow/horde.png") 0 0 no-repeat;padding-left:20px;}
+.wowintro2 a.f_a{background:url('https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/alliance.png') 0 2px no-repeat;padding-left:18px;}
+.wowintro2 a.f_h{background:url("https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/horde.png") 0 2px no-repeat;padding-left:18px;}
+span.f_a{background:url('https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/alliance.png') 0 0 no-repeat;padding-left:20px;}
+span.f_h{background:url("https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/horde.png") 0 0 no-repeat;padding-left:20px;}
 .boss_list a{
-	background:url("/static/image/wow/icon/boss.png") 0 5px no-repeat;padding-left:18px;background-size:16px 16px;
+	background:url("https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/icon/boss.png") 0 5px no-repeat;padding-left:18px;background-size:16px 16px;
 }
 .boss_list a.wowintro_more{
 	background:none;padding-left:0;
@@ -67,7 +67,7 @@ span.f_h{background:url("/static/image/wow/horde.png") 0 0 no-repeat;padding-lef
     height: 33px;
     line-height: 33px;
     padding-left: 22px;
-    background: url(/template/nex_game_190202/neoconex/index/fire.png) left center no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/index/fire.png) left center no-repeat;
 }
 .ganhuo_two_a{
 	display: block;
@@ -113,8 +113,8 @@ span.f_h{background:url("/static/image/wow/horde.png") 0 0 no-repeat;padding-lef
     color: #555;
     line-height: 26px;
 }
-.wowlink1.f_a{background:url('/static/image/wow/alliance.png') 0 5px no-repeat;padding-left:18px;}
-.wowlink1.f_h{background:url("/static/image/wow/horde.png") 0 5px no-repeat;padding-left:18px;}
+.wowlink1.f_a{background:url('https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/alliance.png') 0 5px no-repeat;padding-left:18px;}
+.wowlink1.f_h{background:url("https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow/horde.png") 0 5px no-repeat;padding-left:18px;}
 .wowintro_more{
     display: inline-block;
     float: right;
