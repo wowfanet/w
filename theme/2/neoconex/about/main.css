@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:#f7f7f7!important;}
+.wp,#wp{ width:100%!important;}
+.nexfixed{ position:fixed; top:95px;}
+#nexheader{ }
+.nex_abt_content{ margin:30px auto; width:1240px;}
+.nexsdboxsdee{ float:left; width:280px; background:#fdfdfd;}
+.nexsdboxsdee ul li{ height:49px; line-height:49px; border-bottom:1px solid #eee;}
+.nexsdboxsdee ul li:last-child{ border-bottom:0;}
+.nexsdboxsdee ul li.cur{}
+.nexsdboxsdee ul li a{ display:block; text-align:center; font-size:16px; color:#333;}
+.nexsdboxsdee ul li.cur a{ background: #FF8F19;color:#fff;}
+
+
+.nex_abt_rights{ float:right; width:930px;}
+.nex_abt_cons{width:890px; background:#fff; padding:20px;}
+.nex_abt_bg{ width:930px; height:200px; background:url(top_bg.jpg) center no-repeat;}
+
+.nex_about_intro_gy{ width:890px; position:relative;}
+.nex_abt_title{ height:32px; line-height:32px; margin-bottom:30px;margin-top:20px;}
+.nex_abt_title span{ display:block; height:32px; line-height:32px; font-size:18px; color:#333; font-weight:600;}
+.nex_abtintro_txt{ margin-bottom:20px; text-indent:20px; font-size:16px; color:#444; line-height:30px;}
+.nex_abt_title_abt span{ padding-left:34px; background:url(txt.png) left center no-repeat;}
+.nex_abt_title_contact span{ padding-left:34px; background:url(contact.png) left center no-repeat;}
+.nex_abt_title_links span{ padding-left:34px; background:url(link.png) left center no-repeat;}
+.nex_abt_title_zhaopin span{ padding-left:34px; background:url(zp.png) left center no-repeat;}
+
+.nex_about_intro{ margin:30px 0 50px 0; }
+.nex_contact_box{ margin-bottom:50px;}
+.nex_contact_map{ float:left; width:480px; height:630px;}
+.nex_contact_map img{ width:480px; height:630px;}
+.nex_conact_infos{ float:right; }
+.nex_contact_info_top{  line-height:28px; margin-bottom:20px; padding-bottom:15px; border-bottom:1px solid #eee; font-size:18px; color:#333;}
+.nex_conact_infos h5{ height:25px; line-height:25px; font-size:16px; color:#666; margin-bottom:12px;}
+.nex_conact_infos p{ line-height:25px; font-size:14px; color:#999; margin-bottom:12px;    display: inline-block;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;}
+.macro{text-indent: 0;}
+.macro_info{
+	font-size:14px;color:#5471c4;
+}
+.nex_linkbox{}
+.nex_contact_require{ margin-bottom:30px;}
+.nex_contact_require p{ height:30px; line-height:30px; overflow:hidden; font-size:14px; color:#999;}
+.nex_linkbox ul{ width:910px;}
+.nex_linkbox ul li{ float:left; margin:0 15px 15px 0;}
+.nex_linkbox ul li a{ display:inline-block; height:28px; line-height:28px; padding:0 10px; border:1px solid #eee; background:#fafafa; border-radius:4px; font-size:14px; color:#999;}
+.nex_linkbox ul li a:hover{ border:1px solid #FF8F19; color:#FF8F19; background:#DDE5FF;}
+
+.nex_zhaopin{}
+.nex_zhaopin dl dd{ margin-bottom:20px;}
+.nex_zhaopin dl dd h5{ height:25px; line-height:25px; overflow:hidden; font-size:16px; color:#333; font-weight:600;}
+.nex_zhaopin dl dd h6{ height:20px; line-height:20px; margin:15px 0; font-size:16px; color:#666;}
+.nex_zhaopin dl dd p{ height:30px; line-height:30px; overflow:hidden; font-size:14px; color:#999;}
+
+
+
+.nex_about_introx{ margin-bottom:0;}
+
+
+
+
+
+
+
+
+
+
