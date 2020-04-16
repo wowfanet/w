@@ -15,16 +15,16 @@ body{ background:#f7f7f7!important;}
 
 .nex_abt_rights{ float:right; width:930px;}
 .nex_abt_cons{width:890px; background:#fff; padding:20px;}
-.nex_abt_bg{ width:930px; height:200px; background:url(top_bg.jpg) center no-repeat;}
+.nex_abt_bg{ width:930px; height:200px; background:url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/about/top_bg.jpg) center no-repeat;}
 
 .nex_about_intro_gy{ width:890px; position:relative;}
 .nex_abt_title{ height:32px; line-height:32px; margin-bottom:30px;margin-top:20px;}
 .nex_abt_title span{ display:block; height:32px; line-height:32px; font-size:18px; color:#333; font-weight:600;}
 .nex_abtintro_txt{ margin-bottom:20px; text-indent:20px; font-size:16px; color:#444; line-height:30px;}
-.nex_abt_title_abt span{ padding-left:34px; background:url(txt.png) left center no-repeat;}
-.nex_abt_title_contact span{ padding-left:34px; background:url(contact.png) left center no-repeat;}
-.nex_abt_title_links span{ padding-left:34px; background:url(link.png) left center no-repeat;}
-.nex_abt_title_zhaopin span{ padding-left:34px; background:url(zp.png) left center no-repeat;}
+.nex_abt_title_abt span{ padding-left:34px; background:url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/about/txt.png) left center no-repeat;}
+.nex_abt_title_contact span{ padding-left:34px; background:url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/about/contact.png) left center no-repeat;}
+.nex_abt_title_links span{ padding-left:34px; background:url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/about/link.png) left center no-repeat;}
+.nex_abt_title_zhaopin span{ padding-left:34px; background:url(https://cdn.jsdelivr.net/gh/wowfanet/w/theme/2/neoconex/about/zp.png) left center no-repeat;}
 
 .nex_about_intro{ margin:30px 0 50px 0; }
 .nex_contact_box{ margin-bottom:50px;}
