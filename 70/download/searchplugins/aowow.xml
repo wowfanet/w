@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>%u9B54%u517D%u4E16%u754C%u6000%u65E7%u7248%u6570%u636E%u5E93</ShortName>
+<Description>%u9B54%u517D%u4E16%u754C%u6000%u65E7%u7248%u6570%u636E%u5E93 Search Plugin</Description>
+<Url
+	type="text/html"
+	method="get"
+	template="https://70.wowfan.net/?search={searchTerms}" />
+
+<Url
+	type="application/x-suggestions+json"
+	method="get"
+	template="https://70.wowfan.net/?search={searchTerms}&amp;opensearch" />
+
+<Image height="16" width="16" type="image/vnd.microsoft.icon">https://static.wowfan.net/images/logos70/favicon.ico</Image>
+<Image height="16" width="16" type="image/gif">https://static.wowfan.net/images/icons/favicon.gif</Image>
+
+</OpenSearchDescription>
