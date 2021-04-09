@@ -1,0 +1,11 @@
+.wowhead-tooltip td, .wowhead-tooltip th {
+    background-image:url('https://static.wowfan.net/images/tooltip.gif');
+}
+.wowhead-tooltip p div {
+    background:none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://static.wowfan.net/images/icon_border_medium.png');
+}
+.wowhead-tooltip-powered {
+    background:none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://static.wowfan.net/images/powered.png');
+}

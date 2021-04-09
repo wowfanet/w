@@ -189,7 +189,7 @@ span.f_h{background:url("https://cdn.jsdelivr.net/gh/wowfanet/w/static/image/wow
 	width:68px;height:68px;display:inline-block;
 }
 .wow_icon_border{
-	position:absolute;width:68px;height:68px;top:0;left:0;background:url('https://fcc-1252460681.file.myqcloud.com/wowdb/static/images/Icon/large/border/default.png') 0 0 no-repeat;
+	position:absolute;width:68px;height:68px;top:0;left:0;background:url('https://cdn.jsdelivr.net/gh/wowfanet/w/wdb/images/Icon/large/border/default.png') 0 0 no-repeat;
 }
 .wow_icon_div > a{
 width:68px;height:68px;position:relative;display: table-cell;vertical-align: middle; text-align: center;
